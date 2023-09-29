@@ -1,0 +1,11 @@
+table,
+th,
+td {
+	border: 1px solid;
+	background-color: gold;
+	color: black;
+	font-weight: bold;
+}
+td {
+	padding: 5px;
+}
